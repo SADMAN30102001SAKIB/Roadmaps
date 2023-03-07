@@ -1,3 +1,5 @@
+CP Roadmap by chatGPT
+
 #1:
 Familiarize yourself with Codeforces (0-1 month): Start by exploring the Codeforces website and getting familiar with its interface and the types of problems it offers. Familiarize yourself with the problem-solving process and the steps involved in submitting a solution.
 
